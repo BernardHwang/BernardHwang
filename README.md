@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bernard Hwang
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding (not really)
 - 🌱 I’m currently learning Software Engineering Stuff
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... anyone ?
 - 📫 How to reach me ... by contacting me with email ?
 
 <!---
