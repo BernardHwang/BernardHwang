@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bernard Hwang</h1>
-<h3 align="center">A passionate Software Engineering Student from Malaysoa</h3>
+<h3 align="center">A passionate Software Engineering Student from Malaysia</h3>
 
 - ⚡ Fun fact **I am an Extrovert, enjoying making new friends**
 
