@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/jen-fung-hwang-7b02a4278/">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
